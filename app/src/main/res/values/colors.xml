@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--Screen background color-->
+    <color name="slidescreen">#ffffff</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#A9A9A9</color>
+    <color name="dot_dark_screen2">#A9A9A9</color>
+    <color name="dot_dark_screen3">#A9A9A9</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f70000</color>
+    <color name="dot_light_screen2">#f70000</color>
+    <color name="dot_light_screen3">#f70000</color>
+
+    <array name="array_inActive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+    </array>
+
+    <array name="array_Active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+    </array>
+
+
+
+
+</resources>

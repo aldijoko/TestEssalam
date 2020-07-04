@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestEssalam</string>
+
+    <string name="start">Mulai</string>
+
+    <string name="slide1_title">Jadwal Sholat dan Arah Qiblat</string>
+    <string name="slide1_desc">Awali setiap aktivitas dengan selalu sholat tepat waktu dan hal bermanfaat</string>
+
+    <string name="slide2_title">Zakat, Wakaf, dan Donasi</string>
+    <string name="slide2_desc">Sesungguhnya sedekahnya orang muslim itu memanjangkan umur dan menghapus sifat sombong</string>
+
+    <string name="slide3_title">Daftar Umrah</string>
+    <string name="slide3_desc">Antara umrah yang satu dengan yang lainnya, itu akan menghapus dosa diantara keduanya</string>
+</resources>
