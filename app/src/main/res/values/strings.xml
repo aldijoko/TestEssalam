@@ -11,4 +11,6 @@
 
     <string name="slide3_title">Daftar Umrah</string>
     <string name="slide3_desc">Antara umrah yang satu dengan yang lainnya, itu akan menghapus dosa diantara keduanya</string>
+    <string name="atau_lanjut_dengan">--------------------     atau lanjut dengan     --------------------</string>
+    <string name="login_ask_account">Belum Punya Akun ? </string>
 </resources>
